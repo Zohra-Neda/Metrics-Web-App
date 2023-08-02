@@ -47,7 +47,10 @@ const CryptoContainer = () => {
               </div>
               <h4 className="currency-text">{currency.name}</h4>
               <h4 className="currency-text">{currency.symbol}</h4>
-              <h4 className="currency-text">#{currency.rank}</h4>
+              <h4 className="currency-text">
+                #
+                {currency.rank}
+              </h4>
             </Link>
           </div>
         ))}

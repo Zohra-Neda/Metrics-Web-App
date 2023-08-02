@@ -35,7 +35,7 @@ describe('Filter', () => {
     const { getByPlaceholderText } = render(
       <Provider store={store}>
         <Filter />
-      </Provider>
+      </Provider>,
     );
 
     const input = getByPlaceholderText('search currency...');

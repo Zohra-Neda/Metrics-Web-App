@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 export default function Header() {
   return (
@@ -7,5 +7,5 @@ export default function Header() {
         <h1 className="h1">Crypto currency</h1>
       </nav>
     </div>
-  )
+  );
 }

@@ -2,7 +2,6 @@ import React from 'react';
 import { useDispatch } from 'react-redux';
 import { filteredCurrencyLists } from '../redux/currencies/currencySlice';
 
-
 const Filter = () => {
   const dispatch = useDispatch();
 

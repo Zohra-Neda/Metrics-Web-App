@@ -41,7 +41,7 @@ describe('CryptoDetails', () => {
         <BrowserRouter>
           <CryptoDetails />
         </BrowserRouter>
-      </Provider>
+      </Provider>,
     );
 
     expect(screen.getByText('Loading...')).toBeInTheDocument();
@@ -53,7 +53,7 @@ describe('CryptoDetails', () => {
         <BrowserRouter>
           <CryptoDetails />
         </BrowserRouter>
-      </Provider>
+      </Provider>,
     );
 
     expect(screen.getByText('Name')).toBeInTheDocument();

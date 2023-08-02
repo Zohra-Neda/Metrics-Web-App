@@ -17,7 +17,7 @@ function App() {
     <Provider store={store}>
       <Router>
         <div className="App">
-        <Header/>
+          <Header />
           <Routes>
             <Route path="/" element={<CryptoContainer />} />
             <Route path="/details/:id" element={<CryptoDetails />} />

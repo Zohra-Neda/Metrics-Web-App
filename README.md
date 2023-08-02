@@ -92,7 +92,16 @@ This app was built as a personal project to learn more about React and Redux, an
 <!-- LIVE DEMO -->
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]()
+- [Live Demo Link](https://metrics-web-app-zn.onrender.com)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+<!-- LIVE DEMO -->
+## 🚀 Video Link <a name="video-link"></a>
+
+- [Video Link](https://www.loom.com/share/0cae99f17266447dbdf228a4f768dcab?sid=400d7243-f32e-4b0d-a41c-7d8b9e8cce68)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

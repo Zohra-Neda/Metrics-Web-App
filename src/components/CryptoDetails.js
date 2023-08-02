@@ -1,8 +1,8 @@
 import React from 'react';
 import { useSelector } from 'react-redux';
 import { Link } from 'react-router-dom';
-import Footer from './Footer';
 import { BsFillArrowLeftSquareFill } from 'react-icons/bs';
+import Footer from './Footer';
 
 const CryptoDetails = () => {
   const selectedCurrency = useSelector(
@@ -22,17 +22,17 @@ const CryptoDetails = () => {
     marketCap,
     availableSupply,
     totalSupply,
-    websiteUrl
+    websiteUrl,
   } = selectedCurrency;
 
   return (
     <div className="container">
       <Link to="/" className="back-link">
-      <BsFillArrowLeftSquareFill className="icon" />
+        <BsFillArrowLeftSquareFill className="icon" />
       </Link>
       <table className="card-details">
         <tr className="bg">
-        <td>Name</td>
+          <td>Name</td>
           <td>{name}</td>
         </tr>
         <tr className="bg">
