@@ -157,7 +157,7 @@ To run test for the project, execute the following command:
 
 You can deploy this project using:
 
-github pages
+<a href="https://render.com">render</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -207,7 +207,7 @@ If you like this project give ⭐️
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse for initiating the idea behind the project.
+I would like to express my gratitude to Microverse for initiating the idea behind this project. Additionally, I would like to credit [Nelson Sakwa](https://www.behance.net/sakwadesignstudio), [the author of the original design](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)), as required by the [Creative Commons License](https://creativecommons.org/licenses/). Thank you both for your contributions to this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
